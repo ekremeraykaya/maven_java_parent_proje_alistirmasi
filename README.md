@@ -1,1 +1,1 @@
-# maven_java_parent_proje_alistirmasi
+### 23 Kasım 2022 Yazılım Geliştirme Dersi Alıştırması ###
